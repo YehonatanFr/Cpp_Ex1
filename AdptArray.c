@@ -1,3 +1,4 @@
+//The build of the struct and the functios CreateAdptArray and SetAdptArrayAt and DeleteAdptArray were taken fron Q4 ifrom the test
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
